@@ -21,7 +21,7 @@ Super-resolution is a task involving increasing the resolution of an image, typi
 
 Make sure to have the following installed before proceeding:
 
-- Python (>=3.6)
+- Python (>=3.8)
 - PyTorch (>=1.8.0)
 - Other dependencies (see `requirements.txt`)
 
